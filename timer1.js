@@ -14,7 +14,7 @@ const timer = (alarms) => {
   }
 }
 
-let args = process.argv.splice(2);
-timer(args);
+//let args = process.argv.splice(2);
+//timer(args);
 
 module.exports = timer;
